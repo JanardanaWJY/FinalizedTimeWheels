@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./Order.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="order14">
+      <img class="woow-icon21" alt="" src="./public/woow3.svg" />
+
+      <img class="woow-icon22" alt="" src="./public/woow3.svg" />
+
+      <img class="woow-icon23" alt="" src="./public/woow5.svg" />
+
+      <div class="header7">
+        <div class="header-child5"></div>
+        <div class="order15">Order</div>
+        <div class="div115">21:49</div>
+      </div>
+      <div class="driver-selection" id="driverSelectionContainer">
+        <img
+          class="driver-selection-child"
+          alt=""
+          src="./public/rectangle-73.svg"
+        />
+
+        <div class="driver1">Driver</div>
+        <img
+          class="driver-selection-item"
+          alt=""
+          src="./public/group-181@2x.png"
+        />
+
+        <div class="high-quality-and-container">
+          <p class="high-quality-and">High quality and handpicked drivers.</p>
+          <p class="high-quality-and">You can also use your own vehicle.</p>
+        </div>
+      </div>
+      <div class="vehicle-selection" id="vehicleSelectionContainer">
+        <img
+          class="driver-selection-child"
+          alt=""
+          src="./public/rectangle-73.svg"
+        />
+
+        <img
+          class="vehicle-selection-item"
+          alt=""
+          src="./public/group-261.svg"
+        />
+
+        <div class="vehicle">Vehicle</div>
+        <div class="latest-and-standardized">
+          Latest and standardized vehicles available based on your needs.
+        </div>
+      </div>
+      <div class="footer-news7">
+        <div class="footer-news-child5"></div>
+        <div class="recent-traffic-news7">Recent Traffic News</div>
+        <div class="traffic-news7">
+          <div class="unusual-traffic-in7">
+            Unusual traffic in Jl. Mawar Raya
+          </div>
+          <img
+            class="traffic-jam-icon7"
+            alt=""
+            src="./public/traffic-jam@2x.png"
+          />
+        </div>
+        <div class="rain-news7">
+          <div class="potential-rain-at7">
+            Potential rain at 3.34 pm may cause a delay
+          </div>
+          <img
+            class="rainy-weather-icon7"
+            alt=""
+            src="./public/rainy-weather@2x.png"
+          />
+        </div>
+      </div>
+      <div class="navbar7">
+        <div class="navbar-child5"></div>
+        <div class="navigation7">
+          <div class="dashboard19">
+            <div class="dashboard20" id="dashboardContainer">
+              <img
+                class="mask-group-icon38"
+                alt=""
+                src="./public/mask-group1@2x.png"
+              />
+
+              <div class="dashboard21">Dashboard</div>
+            </div>
+            <img class="dashboard-child5" alt="" src="./public/line-1.svg" />
+          </div>
+          <div class="order16">
+            <div class="order17">Order</div>
+            <img
+              class="mask-group-icon39"
+              alt=""
+              src="./public/mask-group2@2x.png"
+            />
+          </div>
+          <div class="orders-history15" id="ordersHistoryContainer">
+            <div class="orders-history16">Orders History</div>
+            <img
+              class="history-1-icon6"
+              alt=""
+              src="./public/history-1@2x.png"
+            />
+          </div>
+          <div class="schedule16" id="scheduleContainer">
+            <div class="orders-history16">Schedule</div>
+            <img
+              class="mask-group-icon38"
+              alt=""
+              src="./public/calendar-1@2x.png"
+            />
+          </div>
+        </div>
+        <div class="logo9">
+          <img class="logo-child6" alt="" src="./public/group-1@2x.png" />
+
+          <div class="time9">TIME</div>
+          <div class="wheels9">WHEELS</div>
+        </div>
+        <div class="profile7">
+          <img
+            class="download-1-icon7"
+            alt=""
+            src="./public/download-1@2x.png"
+          />
+
+          <div class="ivanka-trump7">Ivanka Trump</div>
+          <div class="time-lord7">Time Lord</div>
+        </div>
+      </div>
+      <div class="notif7">
+        <img
+          class="communicate-icon7"
+          alt=""
+          src="./public/communicate@2x.png"
+        />
+
+        <div class="new-chat7">1 New Chat</div>
+      </div>
+      <div class="what-would-you">What would you like to order?</div>
+    </div>
+
+    <script>
+      var driverSelectionContainer = document.getElementById(
+        "driverSelectionContainer"
+      );
+      if (driverSelectionContainer) {
+        driverSelectionContainer.addEventListener("click", function (e) {
+          window.location.href = "./OrderDriver.html";
+        });
+      }
+      
+      var vehicleSelectionContainer = document.getElementById(
+        "vehicleSelectionContainer"
+      );
+      if (vehicleSelectionContainer) {
+        vehicleSelectionContainer.addEventListener("click", function (e) {
+          window.location.href = "./OrderCar.html";
+        });
+      }
+      
+      var dashboardContainer = document.getElementById("dashboardContainer");
+      if (dashboardContainer) {
+        dashboardContainer.addEventListener("click", function (e) {
+          window.location.href = "./Dashboard.html";
+        });
+      }
+      
+      var ordersHistoryContainer = document.getElementById("ordersHistoryContainer");
+      if (ordersHistoryContainer) {
+        ordersHistoryContainer.addEventListener("click", function (e) {
+          window.location.href = "./OrderHistory.html";
+        });
+      }
+      
+      var scheduleContainer = document.getElementById("scheduleContainer");
+      if (scheduleContainer) {
+        scheduleContainer.addEventListener("click", function (e) {
+          window.location.href = "./Schedule.html";
+        });
+      }
+      </script>
+  </body>
+</html>

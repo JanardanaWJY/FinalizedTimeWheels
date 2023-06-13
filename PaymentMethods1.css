@@ -1,0 +1,333 @@
+.how-to-pay1,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rectangle-div {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  box-shadow: 0 1px 100px rgba(0, 0, 0, 0.12);
+  width: 518px;
+  height: 328px;
+}
+.how-to-pay1 {
+  line-height: 95.9%;
+  font-weight: 500;
+}
+.line-div {
+  position: absolute;
+  top: 15.5px;
+  left: 0.5px;
+  border-top: 1px solid var(--color-purple);
+  box-sizing: border-box;
+  width: 78px;
+  height: 1px;
+}
+.bca-m-banking,
+.how-to-pay-parent {
+  position: absolute;
+  top: 9px;
+  left: 324px;
+  width: 80px;
+  height: 16px;
+}
+.bca-m-banking {
+  top: 6px;
+  left: 31px;
+  line-height: 95.9%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 119px;
+  height: 12px;
+}
+.line-icon {
+  position: absolute;
+  top: 27.5px;
+  left: 0;
+  width: 301px;
+  height: 1px;
+}
+.bca-mobile-gangguan-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 3.5px;
+  width: 18px;
+  height: 18px;
+  object-fit: cover;
+}
+.down-1-icon {
+  position: absolute;
+  top: 2px;
+  left: 281px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.bca-m-banking-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 301px;
+  height: 28px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.group-div,
+.rectangle-group {
+  position: absolute;
+  top: 136px;
+  left: 57px;
+  width: 404px;
+  height: 28px;
+}
+.rectangle-group {
+  top: 95px;
+  left: 0;
+  width: 518px;
+  height: 328px;
+  color: var(--color-purple);
+}
+.payment1,
+.select-a-payment {
+  position: absolute;
+  line-height: 95.9%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 59px;
+}
+.payment1 {
+  top: 0;
+  left: 101px;
+  font-size: var(--font-size-45xl);
+  width: 315px;
+}
+.select-a-payment {
+  top: 125px;
+  left: 20px;
+  font-size: 36px;
+  width: 477px;
+}
+.group-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-purple);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 137px;
+  height: 53px;
+}
+.confirm {
+  position: absolute;
+  top: 12px;
+  left: 11px;
+  line-height: 95.9%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 115.31px;
+  height: 29px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 323px;
+  left: 190px;
+  width: 137px;
+  height: 53px;
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.group-container {
+  position: absolute;
+  top: 300px;
+  left: 461px;
+  width: 518px;
+  height: 423px;
+}
+.mask-group-icon7,
+.mask-group-icon8 {
+  position: absolute;
+  top: 782px;
+  left: 0;
+  width: 621px;
+  height: 621px;
+  object-fit: cover;
+}
+.mask-group-icon8 {
+  top: 0;
+  left: 1158px;
+}
+.payment-methods1 {
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-nunito);
+}
+.how-to-pay-child,
+.how-to-pay-inner,
+.how-to-pay-item {
+  position: absolute;
+  top: 316px;
+  left: 634px;
+  border-radius: 50%;
+  background-color: var(--color-olive);
+  filter: blur(100px);
+  width: 511px;
+  height: 511px;
+}
+.how-to-pay-inner,
+.how-to-pay-item {
+  top: -14px;
+  left: 114px;
+  background-color: var(--color-steelblue-100);
+  width: 796px;
+  height: 796px;
+}
+.how-to-pay-inner {
+  top: -81px;
+  left: -116px;
+  background-color: var(--color-olive);
+  width: 511px;
+  height: 511px;
+}
+.an1,
+.arvin-rayhandi-prayoga1,
+.div1 {
+  position: absolute;
+  top: 300px;
+  left: 157px;
+  font-size: var(--font-size-81xl);
+  display: inline-block;
+  width: 711px;
+  height: 153px;
+}
+.an1,
+.arvin-rayhandi-prayoga1 {
+  top: 485px;
+  font-size: var(--font-size-31xl);
+  height: 84px;
+}
+.an1 {
+  top: 440px;
+  font-size: var(--font-size-11xl);
+  height: 45px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 110px;
+  left: 329px;
+  width: 368px;
+  height: 115px;
+  object-fit: cover;
+}
+.boleh-duitnya-bang1,
+.wah-terima-kasih1 {
+  position: absolute;
+  top: 265.68px;
+  left: 349px;
+  transform: rotate(-5deg);
+  transform-origin: 0 0;
+}
+.wah-terima-kasih1 {
+  top: 613.7px;
+  left: 257px;
+  display: inline-block;
+  width: 244px;
+  height: 25.23px;
+  transform: rotate(-1.34deg);
+  opacity: 0.8;
+}
+.image-1025-icon1 {
+  position: absolute;
+  top: 377px;
+  left: 34px;
+  width: 123px;
+  height: 123px;
+  object-fit: cover;
+}
+.image-1019-icon1,
+.image-1947-icon1,
+.image-5-icon1 {
+  position: absolute;
+  top: 404px;
+  left: 881px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.image-1947-icon1,
+.image-5-icon1 {
+  top: 237px;
+  left: 599.03px;
+  width: 29.65px;
+  height: 29.65px;
+}
+.image-1947-icon1 {
+  top: 601px;
+  left: 483px;
+  width: 63px;
+  height: 63px;
+}
+.image-1652-icon1,
+.image-1656-icon1 {
+  position: absolute;
+  top: 80.62px;
+  left: 65.62px;
+  width: 58.77px;
+  height: 58.77px;
+  object-fit: cover;
+}
+.image-1652-icon1 {
+  top: 179px;
+  left: 171px;
+  width: 46px;
+  height: 46px;
+}
+.image-1340-icon1,
+.image-339-icon1 {
+  position: absolute;
+  top: 28px;
+  left: 766px;
+  width: 72.58px;
+  height: 72.58px;
+  object-fit: cover;
+}
+.image-339-icon1 {
+  top: 146px;
+  left: 852px;
+  width: 91px;
+  height: 91px;
+}
+.agancy-girlpng-icon1 {
+  position: absolute;
+  top: calc(50% + 164px);
+  left: calc(50% - 512px);
+  width: 410px;
+  height: 221px;
+  object-fit: cover;
+}
+.how-to-pay {
+  position: relative;
+  background-color: var(--color-white);
+  width: 1024px;
+  height: 768px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

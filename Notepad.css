@@ -1,0 +1,73 @@
+.notepad1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f9fc5f;
+  width: 946px;
+  height: 824px;
+}
+.asu-iki-stress {
+  position: absolute;
+  top: -501px;
+  left: 360.73px;
+  font-size: 55px;
+  line-height: 95.9%;
+  font-weight: 800;
+  color: rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  width: 1309.3px;
+  height: 1237.47px;
+  transform: rotate(30deg);
+  transform-origin: 0 0;
+}
+.edit-profile,
+.hover-effect,
+.introduction-page,
+.motive-improvement-variasi,
+.order-details,
+.waduh {
+  position: absolute;
+  top: 68px;
+  left: 64px;
+  line-height: 95.9%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  width: 827px;
+}
+.hover-effect,
+.introduction-page,
+.motive-improvement-variasi,
+.order-details,
+.waduh {
+  top: 166px;
+}
+.hover-effect,
+.motive-improvement-variasi,
+.order-details,
+.waduh {
+  top: 264px;
+}
+.hover-effect,
+.order-details,
+.waduh {
+  top: 362px;
+}
+.hover-effect,
+.waduh {
+  top: 460px;
+}
+.waduh {
+  top: 558px;
+}
+.notepad {
+  position: relative;
+  width: 100%;
+  height: 824px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--font-nunito);
+}

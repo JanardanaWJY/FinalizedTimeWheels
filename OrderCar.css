@@ -1,0 +1,709 @@
+.header-child4,
+.woow-icon18,
+.woow-icon19,
+.woow-icon20 {
+  position: absolute;
+  top: 467px;
+  left: 86px;
+  width: 367.29px;
+  height: 207.94px;
+}
+.header-child4,
+.woow-icon19,
+.woow-icon20 {
+  top: 714px;
+  left: 1095px;
+}
+.header-child4,
+.woow-icon20 {
+  top: 0;
+  left: 993px;
+  height: 136.94px;
+}
+.header-child4 {
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 1170px;
+  height: 84px;
+}
+.car1 {
+  color: var(--color-purple);
+}
+.choose-your-preferred-container1 {
+  position: absolute;
+  top: 22px;
+  left: 36px;
+  display: inline-block;
+  width: 361px;
+}
+.div114 {
+  position: absolute;
+  top: 33px;
+  left: 1074px;
+  font-size: var(--font-size-mid);
+  line-height: 95.9%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 58px;
+  height: 19px;
+}
+.header6 {
+  position: absolute;
+  top: 9px;
+  left: 283px;
+  width: 1170px;
+  height: 84px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+}
+.footer-news-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 1144px;
+  height: 67px;
+}
+.recent-traffic-news6 {
+  position: absolute;
+  top: 20px;
+  left: 35px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.unusual-traffic-in6 {
+  position: absolute;
+  top: 0;
+  left: 26px;
+  font-weight: 500;
+}
+.traffic-jam-icon6 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.traffic-news6 {
+  position: absolute;
+  top: 21px;
+  left: 293px;
+  width: 291px;
+  height: 25px;
+}
+.potential-rain-at6 {
+  position: absolute;
+  top: 0;
+  left: 23px;
+  font-weight: 500;
+}
+.rainy-weather-icon6 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.footer-news6,
+.rain-news6 {
+  position: absolute;
+  top: 20px;
+  left: 673px;
+  width: 378px;
+  height: 25px;
+}
+.footer-news6 {
+  top: 949px;
+  left: 286px;
+  width: 1144px;
+  height: 67px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+}
+.navbar-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 277px;
+  height: 1024px;
+}
+.mask-group-icon36 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 17px;
+  height: 17px;
+  object-fit: cover;
+}
+.dashboard17,
+.dashboard18 {
+  position: absolute;
+  top: 0;
+  height: 19px;
+}
+.dashboard18 {
+  left: 26px;
+  line-height: 95.9%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  width: 96px;
+}
+.dashboard17 {
+  left: 28.5px;
+  width: 122px;
+  cursor: pointer;
+}
+.dashboard-child4 {
+  position: absolute;
+  top: 50px;
+  left: -1px;
+  width: 2px;
+  height: 21px;
+}
+.dashboard16,
+.order13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 150.5px;
+  height: 70px;
+}
+.order13 {
+  top: 1px;
+  left: 28px;
+  line-height: 95.9%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  width: 119px;
+  height: 19px;
+}
+.mask-group-icon37,
+.order12 {
+  position: absolute;
+  height: 21px;
+}
+.mask-group-icon37 {
+  top: 0;
+  left: 0;
+  width: 21px;
+  object-fit: cover;
+}
+.order12 {
+  top: 50px;
+  left: 26.5px;
+  width: 147px;
+  cursor: pointer;
+  color: var(--color-purple);
+}
+.orders-history14 {
+  position: absolute;
+  top: 0;
+  left: 26px;
+  line-height: 95.9%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  width: 122px;
+  height: 19px;
+}
+.history-1-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 17px;
+  height: 17px;
+  object-fit: cover;
+}
+.orders-history13,
+.schedule14 {
+  position: absolute;
+  top: 102px;
+  left: 28.5px;
+  width: 148px;
+  height: 19px;
+  cursor: pointer;
+}
+.schedule14 {
+  top: 153px;
+}
+.logo-child5,
+.navigation6 {
+  position: absolute;
+  top: 185px;
+  left: 18.5px;
+  width: 176.5px;
+  height: 172px;
+}
+.logo-child5 {
+  top: 0;
+  left: 0;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.time8 {
+  top: 1px;
+  left: 49px;
+  line-height: 95.9%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 99px;
+  height: 33px;
+}
+.logo8,
+.time8,
+.wheels8 {
+  position: absolute;
+}
+.wheels8 {
+  top: 22px;
+  left: 51px;
+  font-size: var(--font-size-3xs);
+  letter-spacing: 0.9em;
+  line-height: 95.9%;
+  font-weight: 800;
+  color: var(--color-goldenrod-100);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 94px;
+  height: 33px;
+}
+.logo8 {
+  top: 48px;
+  left: 47px;
+  width: 148px;
+  height: 55px;
+  text-align: center;
+  font-size: var(--font-size-18xl);
+}
+.download-1-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-28xl);
+  width: 62px;
+  height: 62px;
+  object-fit: cover;
+}
+.ivanka-trump6,
+.time-lord6 {
+  position: absolute;
+  line-height: 95.9%;
+  display: flex;
+  align-items: center;
+}
+.ivanka-trump6 {
+  top: 13px;
+  left: 72px;
+  font-weight: 600;
+  width: 116px;
+  height: 23px;
+}
+.time-lord6 {
+  top: 32px;
+  left: 71px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-100);
+  width: 105px;
+  height: 17px;
+}
+.profile6 {
+  position: absolute;
+  top: 922px;
+  left: 47px;
+  width: 188px;
+  height: 62px;
+}
+.communicate-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 18px;
+  height: 18px;
+  object-fit: cover;
+}
+.new-chat6 {
+  position: absolute;
+  top: 1px;
+  left: 31px;
+  line-height: 95.9%;
+  font-weight: 600;
+}
+.navbar6,
+.notif6 {
+  position: absolute;
+  top: 857px;
+  left: 77px;
+  width: 123px;
+  height: 18px;
+}
+.navbar6 {
+  top: 0;
+  left: 0;
+  width: 277px;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+}
+.driver-search-bar-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 1144px;
+  height: 58px;
+}
+.available-vehicles1 {
+  position: absolute;
+  top: 19px;
+  left: 19.02px;
+  line-height: 95.9%;
+  display: flex;
+  align-items: center;
+  width: 164.14px;
+}
+.search-bar7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-dimgray-200);
+  width: 396.35px;
+  height: 38px;
+}
+.vector-icon6 {
+  position: absolute;
+  height: 52.63%;
+  width: 5.05%;
+  top: 23.68%;
+  right: 91.67%;
+  bottom: 23.68%;
+  left: 3.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search-available-vehicles1 {
+  position: absolute;
+  top: 9px;
+  left: 53.05px;
+  font-weight: 500;
+  display: inline-block;
+  width: 189.17px;
+  height: 20px;
+}
+.search-bar6 {
+  position: absolute;
+  top: 10px;
+  left: 201.18px;
+  width: 396.35px;
+  height: 38px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-500);
+}
+.driver-search-bar2 {
+  position: absolute;
+  top: 105px;
+  left: 286px;
+  width: 1144px;
+  height: 58px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.driver-profile-vin-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 271.31px;
+  height: 345px;
+}
+.honda-hrv1 {
+  position: absolute;
+  top: 173px;
+  left: 85px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 110px;
+  height: 25px;
+}
+.image-16-icon1 {
+  position: absolute;
+  top: 45px;
+  left: 3px;
+  width: 265px;
+  height: 115px;
+  object-fit: cover;
+}
+.seater4 {
+  position: absolute;
+  top: 308px;
+  left: 35px;
+  font-weight: 500;
+  display: inline-block;
+  width: 202px;
+  height: 20px;
+}
+.driver-profile-vin1 {
+  position: absolute;
+  top: 204px;
+  left: 302px;
+  box-shadow: 0 1px 100px rgba(0, 0, 0, 0.1);
+  width: 271.31px;
+  height: 345px;
+}
+.daddy-alphard-of,
+.toyota-alphard {
+  position: absolute;
+  display: inline-block;
+}
+.toyota-alphard {
+  top: 173px;
+  left: 65px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  text-align: left;
+  width: 141px;
+  height: 25px;
+}
+.daddy-alphard-of {
+  top: 212px;
+  left: 35px;
+  font-weight: 500;
+  width: 202px;
+  height: 63px;
+}
+.image-15-icon {
+  position: absolute;
+  top: 19px;
+  left: 13px;
+  width: 249px;
+  height: 140px;
+  object-fit: cover;
+}
+.driver-profile-vin2 {
+  position: absolute;
+  top: 205px;
+  left: 582px;
+  box-shadow: 0 1px 100px rgba(0, 0, 0, 0.1);
+  width: 271.31px;
+  height: 345px;
+}
+.hyundai-ioniq-52 {
+  position: absolute;
+  top: 173px;
+  left: 63px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 146px;
+  height: 25px;
+}
+.electric-vehicle-so1 {
+  position: absolute;
+  top: 212px;
+  left: 35px;
+  font-weight: 500;
+  display: inline-block;
+  width: 202px;
+  height: 64px;
+}
+.image-14-icon1 {
+  position: absolute;
+  top: 14px;
+  left: 26px;
+  width: 220px;
+  height: 165px;
+  object-fit: cover;
+}
+.driver-profile-vin3 {
+  position: absolute;
+  top: 204px;
+  left: 862px;
+  box-shadow: 0 1px 100px rgba(0, 0, 0, 0.1);
+  width: 271.31px;
+  height: 345px;
+  cursor: pointer;
+}
+.toyota-avanza3 {
+  position: absolute;
+  top: 173px;
+  left: 43px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 186px;
+  height: 25px;
+}
+.simple-and-cost-effective {
+  position: absolute;
+  top: 212px;
+  left: 35px;
+  font-weight: 500;
+  display: inline-block;
+  width: 202px;
+  height: 44px;
+}
+.avanza-mas-icon {
+  position: absolute;
+  top: 19px;
+  left: 5px;
+  width: 260px;
+  height: 154px;
+  object-fit: cover;
+}
+.avanza1 {
+  position: absolute;
+  top: 576px;
+  left: 437px;
+  box-shadow: 0 1px 100px rgba(0, 0, 0, 0.1);
+  width: 271.31px;
+  height: 345px;
+}
+.mitsubishi-xpander1 {
+  position: absolute;
+  top: 172px;
+  left: 51px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 178px;
+  height: 25px;
+}
+.standardized-suv-and1 {
+  position: absolute;
+  top: 212px;
+  left: 35px;
+  font-weight: 500;
+  display: inline-block;
+  width: 202px;
+  height: 85px;
+}
+.image-13-icon1 {
+  position: absolute;
+  top: 21px;
+  left: 17px;
+  width: 246px;
+  height: 164px;
+  object-fit: cover;
+}
+.driver-profile-vin4 {
+  position: absolute;
+  top: 577px;
+  left: 717px;
+  box-shadow: 0 1px 100px rgba(0, 0, 0, 0.1);
+  width: 271.31px;
+  height: 345px;
+}
+.driver-profile-vin-child3 {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 271.31px;
+  height: 345px;
+}
+.honda-accord1 {
+  position: absolute;
+  top: 173px;
+  left: 73px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 146px;
+  height: 25px;
+}
+.comfortable-and-luxurious1 {
+  position: absolute;
+  top: 212px;
+  left: 45px;
+  font-weight: 500;
+  display: inline-block;
+  width: 202px;
+  height: 64px;
+}
+.image-12-icon1 {
+  position: absolute;
+  top: 25px;
+  left: 0;
+  width: 299px;
+  height: 168px;
+  object-fit: cover;
+}
+.driver-profile-vin5 {
+  position: absolute;
+  top: 576px;
+  left: 987px;
+  box-shadow: 0 1px 100px rgba(0, 0, 0, 0.1);
+  width: 299px;
+  height: 345px;
+}
+.mercedes-benz-c200,
+.the-meaning-of {
+  position: absolute;
+  display: inline-block;
+}
+.mercedes-benz-c200 {
+  top: 173px;
+  left: 44px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  width: 191px;
+  height: 25px;
+}
+.the-meaning-of {
+  top: 212px;
+  left: 35px;
+  font-weight: 500;
+  width: 202px;
+  height: 20px;
+}
+.image-17-icon {
+  position: absolute;
+  top: 33px;
+  left: 30px;
+  width: 219px;
+  height: 139px;
+  object-fit: cover;
+}
+.driver-profile-vin6 {
+  position: absolute;
+  top: 205px;
+  left: 1142px;
+  box-shadow: 0 1px 100px rgba(0, 0, 0, 0.1);
+  width: 271.31px;
+  height: 345px;
+}
+.order-car {
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-500);
+  font-family: var(--font-nunito);
+}

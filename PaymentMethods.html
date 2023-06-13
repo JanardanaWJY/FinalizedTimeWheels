@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./PaymentMethods.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="payment-methods">
+      <div class="group-parent">
+        <div class="rectangle-wrapper">
+          <div class="group-child"></div>
+        </div>
+        <div class="payment">PAYMENT</div>
+        <div class="payment-status">Payment Status</div>
+        <div class="rectangle-parent" id="groupContainer1">
+          <div class="group-item"></div>
+          <b class="home">Home</b>
+        </div>
+        <div class="booking-id-parent">
+          <div class="booking-id">Booking ID</div>
+          <div class="div74">00000046235</div>
+          <div class="xxxxxxxxxxxx">2356xxxxxxxxxxxx</div>
+          <div class="idr-4000000">IDR 4,000,000</div>
+          <div class="virtual-account-no">Virtual account no.</div>
+          <div class="total-to-pay">Total to pay</div>
+          <div class="status">Status</div>
+          <div class="successfully-paid">Successfully Paid</div>
+          <div class="copy-parent">
+            <div class="copy">Copy</div>
+            <div class="group-inner"></div>
+          </div>
+        </div>
+      </div>
+      <img class="mask-group-icon5" alt="" src="./public/mask-group3@2x.png" />
+
+      <img class="mask-group-icon6" alt="" src="./public/mask-group3@2x.png" />
+    </div>
+
+    <script>
+      var groupContainer1 = document.getElementById("groupContainer1");
+      if (groupContainer1) {
+        groupContainer1.addEventListener("click", function (e) {
+          window.location.href = "./Dashboard.html";
+        });
+      }
+      </script>
+  </body>
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./AuthenticationSignIn.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="authentication-sign-in">
+      <div class="rectangle-parent6">
+        <div class="group-child19"></div>
+        <div class="logo3">
+          <img class="group-icon" alt="" src="./public/group-11@2x.png" />
+
+          <div class="time3">TIME</div>
+          <div class="wheels3">WHEELS</div>
+        </div>
+        <div class="group-parent3">
+          <div class="kru-arvin-group">
+            <div class="kru-arvin1">Kru Arvin</div>
+            <div class="group-child20"></div>
+            <img
+              class="mask-group-icon19"
+              alt=""
+              src="./public/mask-group4@2x.png"
+            />
+          </div>
+          <div class="password-group">
+            <div class="password1">Password</div>
+            <div class="group-child21"></div>
+            <img
+              class="mask-group-icon20"
+              alt=""
+              src="./public/mask-group6@2x.png"
+            />
+          </div>
+          <div class="remember-me-parent">
+            <div class="remember-me">Remember me</div>
+            <div class="group-child22"></div>
+            <div class="group-child23"></div>
+          </div>
+        </div>
+        <div class="sign-in">Sign in</div>
+        <div class="rectangle-parent7" id="groupContainer4">
+          <div class="group-child24"></div>
+          <b class="log-in">Log in</b>
+        </div>
+        <div class="or-login-with-parent" id="groupContainer6">
+          <div class="or-login-with">Or login with</div>
+          <div class="rectangle-parent8">
+            <div class="group-child25"></div>
+            <img class="social-1-icon1" alt="" src="./public/social-1@2x.png" />
+          </div>
+        </div>
+        <div class="create-an-account-parent" id="groupContainer7">
+          <div class="create-an-account">Create an account</div>
+          <div class="group-child26"></div>
+        </div>
+      </div>
+      <img class="mask-group-icon21" alt="" src="./public/mask-group3@2x.png" />
+
+      <img class="mask-group-icon22" alt="" src="./public/mask-group3@2x.png" />
+    </div>
+
+    <script>
+      var groupContainer4 = document.getElementById("groupContainer4");
+      if (groupContainer4) {
+        groupContainer4.addEventListener("click", function (e) {
+          window.location.href = "./Dashboard.html";
+        });
+      }
+      
+      var groupContainer6 = document.getElementById("groupContainer6");
+      if (groupContainer6) {
+        groupContainer6.addEventListener("click", function (e) {
+          window.location.href = "./Dashboard.html";
+        });
+      }
+      
+      var groupContainer7 = document.getElementById("groupContainer7");
+      if (groupContainer7) {
+        groupContainer7.addEventListener("click", function (e) {
+          window.location.href = "./AuthenticationSignUp.html";
+        });
+      }
+      </script>
+  </body>
+</html>

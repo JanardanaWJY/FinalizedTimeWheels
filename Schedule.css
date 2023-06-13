@@ -1,0 +1,858 @@
+.header-child1,
+.woow-icon9 {
+  position: absolute;
+  top: 0;
+  left: 993px;
+  width: 367.29px;
+  height: 136.94px;
+}
+.header-child1 {
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 1172px;
+  height: 84px;
+}
+.schedule7 {
+  top: 22px;
+  left: 35.86px;
+  display: inline-block;
+  width: 128.06px;
+}
+.div76,
+.header3,
+.schedule7 {
+  position: absolute;
+}
+.div76 {
+  top: 33px;
+  left: 1074px;
+  font-size: var(--font-size-mid);
+  line-height: 95.9%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 58px;
+  height: 19px;
+}
+.header3 {
+  top: 9px;
+  left: 286px;
+  width: 1172px;
+  height: 84px;
+  font-size: var(--font-size-11xl);
+}
+.footer-news-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 1144px;
+  height: 67px;
+}
+.recent-traffic-news3 {
+  position: absolute;
+  top: 20px;
+  left: 35px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.unusual-traffic-in3 {
+  position: absolute;
+  top: 0;
+  left: 26px;
+  font-weight: 500;
+}
+.traffic-jam-icon3 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.traffic-news3 {
+  position: absolute;
+  top: 21px;
+  left: 293px;
+  width: 291px;
+  height: 25px;
+}
+.potential-rain-at3 {
+  position: absolute;
+  top: 0;
+  left: 23px;
+  font-weight: 500;
+}
+.rainy-weather-icon3 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.footer-news3,
+.rain-news3 {
+  position: absolute;
+  top: 20px;
+  left: 673px;
+  width: 378px;
+  height: 25px;
+}
+.footer-news3 {
+  top: 949px;
+  left: 286px;
+  width: 1144px;
+  height: 67px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+}
+.communicate-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 18px;
+  height: 18px;
+  object-fit: cover;
+}
+.new-chat3 {
+  position: absolute;
+  top: 1px;
+  left: 31px;
+  line-height: 95.9%;
+  font-weight: 600;
+}
+.notif3 {
+  position: absolute;
+  top: 857px;
+  left: 77px;
+  width: 123px;
+  height: 18px;
+}
+.popup-calendar-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  width: 484px;
+  height: 472px;
+}
+.div77 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.cell84,
+.cell85 {
+  border: 1px solid var(--stroke);
+  flex-direction: column;
+  padding: var(--padding-xl);
+  justify-content: center;
+}
+.cell84 {
+  display: flex;
+  align-items: center;
+}
+.cell85 {
+  margin-left: -1px;
+}
+.cell85,
+.cell87,
+.week28,
+.week52 {
+  display: flex;
+  align-items: center;
+}
+.cell87 {
+  background-color: var(--color-dimgray-200);
+  border: 1px solid var(--stroke);
+  flex-direction: column;
+  padding: var(--padding-xl);
+  justify-content: center;
+  margin-left: -1px;
+}
+.week28,
+.week52 {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.week52 {
+  position: absolute;
+  top: 315px;
+  left: 0;
+  align-items: flex-start;
+}
+.cell91 {
+  background-color: var(--color-mediumpurple-100);
+  border: 1px solid var(--stroke);
+  flex-direction: column;
+  padding: var(--padding-xl);
+}
+.cell91,
+.cell92,
+.cell96,
+.div85 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div85 {
+  position: relative;
+  font-weight: 800;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.cell92,
+.cell96 {
+  background-color: var(--color-mediumpurple-100);
+  border: 1px solid var(--stroke);
+  flex-direction: column;
+  padding: var(--padding-xl);
+  margin-left: -1px;
+}
+.cell96 {
+  background-color: var(--color-mediumorchid);
+  color: var(--color-white);
+}
+.week114,
+.week211,
+.week32,
+.week42 {
+  position: absolute;
+  top: 252px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.week114,
+.week211,
+.week32 {
+  top: 189px;
+}
+.week114,
+.week211 {
+  top: 126px;
+  align-items: center;
+}
+.week114 {
+  top: 63px;
+}
+.mon2 {
+  position: relative;
+  font-weight: 600;
+}
+.cell119,
+.tue2 {
+  display: flex;
+  align-items: center;
+}
+.cell119 {
+  width: 64px;
+  height: 64px;
+  flex-direction: column;
+  padding: var(--padding-xl);
+  box-sizing: border-box;
+  justify-content: center;
+}
+.tue2 {
+  position: relative;
+  font-weight: 600;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.cell120,
+.thu2,
+.tue2,
+.wed2 {
+  justify-content: center;
+}
+.cell120 {
+  width: 64px;
+  height: 64px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-xl);
+  box-sizing: border-box;
+  align-items: center;
+  margin-left: -1px;
+}
+.thu2,
+.wed2 {
+  position: relative;
+  font-weight: 600;
+  height: 24px;
+  flex-shrink: 0;
+}
+.wed2 {
+  display: flex;
+  align-items: center;
+  width: 31px;
+}
+.thu2 {
+  width: 28px;
+}
+.days-row2,
+.sun2,
+.thu2 {
+  display: flex;
+  align-items: center;
+}
+.sun2 {
+  position: relative;
+  font-weight: 600;
+  justify-content: center;
+  width: 29px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.days-row2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.calendar-custom2 {
+  position: absolute;
+  top: 77px;
+  left: 21px;
+  width: 442px;
+  height: 379px;
+}
+.may-20232 {
+  position: absolute;
+  top: 25px;
+  left: 184px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+  text-align: left;
+}
+.popup-calendar {
+  position: absolute;
+  top: 126px;
+  left: 616px;
+  box-shadow: 0 1px 100px rgba(0, 0, 0, 0.1);
+  width: 484px;
+  height: 472px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+}
+.schedule-child,
+.schedule-item {
+  position: absolute;
+  top: 172px;
+  left: 1065px;
+  width: 14px;
+  height: 14px;
+}
+.schedule-item {
+  left: 637px;
+}
+.agendas-child,
+.woow-icon10,
+.woow-icon11 {
+  position: absolute;
+  top: 247px;
+  left: 1009px;
+  width: 367.29px;
+  height: 207.94px;
+}
+.agendas-child,
+.woow-icon11 {
+  top: 0;
+  left: 0;
+}
+.agendas-child {
+  top: 161px;
+  left: 200px;
+  border-radius: var(--br-8xs);
+  width: 1144px;
+  height: 290px;
+}
+.order-id3 {
+  font-weight: 500;
+}
+.order-id-00000000008-container {
+  position: absolute;
+  top: 0;
+  left: 920px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-500);
+  display: inline-block;
+  width: 162px;
+  height: 31px;
+  -webkit-text-stroke: 1px #fff;
+}
+.status1 {
+  position: absolute;
+  top: 55px;
+  left: 398px;
+  font-size: var(--font-size-xs);
+  text-align: center;
+  display: inline-block;
+  width: 35px;
+  height: 13px;
+}
+.may-2023-0700,
+.toyota-avanza2 {
+  position: absolute;
+  top: 0;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  -webkit-text-stroke: 1px #fff;
+}
+.toyota-avanza2 {
+  left: 103px;
+  font-size: var(--font-size-3xl);
+  width: 205.81px;
+  height: 31px;
+}
+.may-2023-0700 {
+  left: 400px;
+  width: 408px;
+  height: 28px;
+}
+.toyota-avanza-child {
+  position: absolute;
+  height: 63.01%;
+  width: 5.73%;
+  top: 18.82%;
+  right: 94.27%;
+  bottom: 18.17%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.from3,
+.until3 {
+  position: absolute;
+  top: 43px;
+  left: 111px;
+  font-size: var(--font-size-3xs);
+  display: inline-block;
+  width: 26px;
+  height: 13px;
+}
+.until3 {
+  top: 71px;
+}
+.time-icon4 {
+  position: absolute;
+  height: 17.65%;
+  width: 1.37%;
+  top: 5.88%;
+  right: 63.51%;
+  bottom: 76.47%;
+  left: 35.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tangerang1 {
+  position: absolute;
+  top: 28px;
+  left: 17px;
+  font-weight: 500;
+  display: inline-block;
+  width: 99px;
+  height: 16px;
+  -webkit-text-stroke: 1px #fff;
+}
+.destinations-icon3,
+.tangerang2 {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  width: 7px;
+  height: 35px;
+}
+.tangerang2 {
+  top: 0;
+  left: 17px;
+  font-weight: 500;
+  display: inline-block;
+  width: 114px;
+  height: 16px;
+  -webkit-text-stroke: 1px #fff;
+}
+.destinantions3 {
+  position: absolute;
+  top: 41px;
+  left: 143px;
+  width: 131px;
+  height: 44px;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+}
+.upcoming {
+  position: absolute;
+  top: 48px;
+  left: 437px;
+  font-weight: 500;
+  color: var(--color-mediumorchid);
+  text-align: center;
+  display: inline-block;
+  width: 128.06px;
+}
+.toyota-avanza1 {
+  position: absolute;
+  top: 348px;
+  left: 248px;
+  width: 1082px;
+  height: 85px;
+  color: var(--color-gray-300);
+}
+.agendas1 {
+  position: absolute;
+  top: 177px;
+  left: 219px;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  text-align: center;
+  display: inline-block;
+  width: 111px;
+  height: 28px;
+}
+.diesel-arvin,
+.may-2023-07001,
+.order-id-00000000007-container {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+  -webkit-text-stroke: 1px #fff;
+}
+.order-id-00000000007-container {
+  left: 923px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-500);
+  width: 162px;
+  height: 31px;
+}
+.diesel-arvin,
+.may-2023-07001 {
+  font-weight: 500;
+}
+.diesel-arvin {
+  left: 106px;
+  font-size: var(--font-size-3xl);
+  width: 205.81px;
+  height: 31px;
+}
+.may-2023-07001 {
+  left: 403px;
+  width: 408px;
+  height: 28px;
+}
+.arvin-diesel-child {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  width: 64px;
+  height: 62px;
+  object-fit: cover;
+}
+.from4,
+.until4 {
+  position: absolute;
+  top: 43px;
+  left: 114px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 26px;
+  height: 13px;
+}
+.until4 {
+  top: 71px;
+}
+.time-icon5 {
+  position: absolute;
+  height: 17.65%;
+  width: 1.37%;
+  top: 5.88%;
+  right: 63.34%;
+  bottom: 76.47%;
+  left: 35.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.status2 {
+  position: absolute;
+  top: 14px;
+  left: 255px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-300);
+  text-align: center;
+  display: inline-block;
+  width: 35px;
+  height: 13px;
+}
+.destinantions4 {
+  position: absolute;
+  top: 41px;
+  left: 146px;
+  width: 290px;
+  height: 44px;
+  font-size: var(--font-size-smi);
+}
+.in-progress {
+  position: absolute;
+  top: 48px;
+  left: 440px;
+  font-weight: 500;
+  color: #b272d0;
+  text-align: center;
+  display: inline-block;
+  width: 128.06px;
+}
+.agendas,
+.arvin-diesel {
+  position: absolute;
+  top: 221px;
+  left: 248px;
+  width: 1085px;
+  height: 85px;
+}
+.agendas {
+  top: 467px;
+  left: 86px;
+  box-shadow: 0 1px 100px rgba(0, 0, 0, 0.1);
+  width: 1376.29px;
+  height: 454.94px;
+  font-size: var(--font-size-xl);
+}
+.navbar-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 277px;
+  height: 1024px;
+}
+.mask-group-icon25 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 17px;
+  height: 17px;
+  object-fit: cover;
+}
+.dashboard-select1,
+.dashboard9 {
+  position: absolute;
+  top: 0;
+  height: 19px;
+}
+.dashboard9 {
+  left: 26px;
+  line-height: 95.9%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  width: 96px;
+}
+.dashboard-select1 {
+  left: 28.5px;
+  width: 122px;
+  cursor: pointer;
+}
+.dashboard-child1 {
+  position: absolute;
+  top: 152px;
+  left: -1px;
+  width: 2px;
+  height: 21px;
+}
+.dashboard8,
+.order7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 150.5px;
+  height: 172px;
+}
+.order7 {
+  top: 1px;
+  left: 28px;
+  line-height: 95.9%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  width: 119px;
+  height: 19px;
+}
+.car-1-icon1 {
+  object-fit: cover;
+}
+.car-1-icon1,
+.mask-group1,
+.order6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 21px;
+  height: 21px;
+}
+.order6 {
+  top: 50px;
+  left: 26.5px;
+  width: 147px;
+  cursor: pointer;
+}
+.orders-history8 {
+  position: absolute;
+  top: 0;
+  left: 26px;
+  line-height: 95.9%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  width: 122px;
+  height: 19px;
+}
+.history-1-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 17px;
+  height: 17px;
+  object-fit: cover;
+}
+.orders-history7,
+.schedule8 {
+  position: absolute;
+  left: 28.5px;
+  width: 148px;
+  height: 19px;
+}
+.orders-history7 {
+  top: 102px;
+  cursor: pointer;
+}
+.schedule8 {
+  top: 153px;
+  color: var(--color-purple);
+}
+.logo-child2,
+.navigation3 {
+  position: absolute;
+  top: 185px;
+  left: 18.5px;
+  width: 176.5px;
+  height: 172px;
+}
+.logo-child2 {
+  top: 0;
+  left: 0;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.time5 {
+  top: 1px;
+  left: 49px;
+  line-height: 95.9%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 99px;
+  height: 33px;
+}
+.logo5,
+.time5,
+.wheels5 {
+  position: absolute;
+}
+.wheels5 {
+  top: 22px;
+  left: 51px;
+  font-size: var(--font-size-3xs);
+  letter-spacing: 0.9em;
+  line-height: 95.9%;
+  font-weight: 800;
+  color: var(--color-goldenrod-100);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 94px;
+  height: 33px;
+}
+.logo5 {
+  top: 48px;
+  left: 47px;
+  width: 148px;
+  height: 55px;
+  text-align: center;
+  font-size: var(--font-size-18xl);
+}
+.download-1-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-28xl);
+  width: 62px;
+  height: 62px;
+  object-fit: cover;
+}
+.ivanka-trump3,
+.time-lord3 {
+  position: absolute;
+  line-height: 95.9%;
+  display: flex;
+  align-items: center;
+}
+.ivanka-trump3 {
+  top: 13px;
+  left: 72px;
+  font-weight: 600;
+  width: 116px;
+  height: 23px;
+}
+.time-lord3 {
+  top: 32px;
+  left: 71px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-100);
+  width: 105px;
+  height: 17px;
+}
+.navbar3,
+.profile3 {
+  position: absolute;
+  top: 922px;
+  left: 47px;
+  width: 188px;
+  height: 62px;
+}
+.navbar3 {
+  top: 0;
+  left: 0;
+  width: 277px;
+  height: 1024px;
+}
+.schedule6 {
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mid);
+  color: var(--color-black);
+  font-family: var(--font-nunito);
+}

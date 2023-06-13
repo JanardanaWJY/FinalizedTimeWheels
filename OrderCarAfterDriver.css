@@ -1,0 +1,654 @@
+.header-child3,
+.woow-icon15,
+.woow-icon16,
+.woow-icon17 {
+  position: absolute;
+  top: 467px;
+  left: 86px;
+  width: 367.29px;
+  height: 207.94px;
+}
+.header-child3,
+.woow-icon16,
+.woow-icon17 {
+  top: 714px;
+  left: 1095px;
+}
+.header-child3,
+.woow-icon17 {
+  top: 0;
+  left: 993px;
+  height: 136.94px;
+}
+.header-child3 {
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 1170px;
+  height: 84px;
+}
+.car {
+  color: var(--color-purple);
+}
+.choose-your-preferred-container {
+  position: absolute;
+  top: 22px;
+  left: 36px;
+  display: inline-block;
+  width: 361px;
+}
+.div113 {
+  position: absolute;
+  top: 33px;
+  left: 1074px;
+  font-size: var(--font-size-mid);
+  line-height: 95.9%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 58px;
+  height: 19px;
+}
+.header5 {
+  position: absolute;
+  top: 9px;
+  left: 283px;
+  width: 1170px;
+  height: 84px;
+  font-size: var(--font-size-11xl);
+}
+.footer-news-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 1144px;
+  height: 67px;
+}
+.recent-traffic-news5 {
+  position: absolute;
+  top: 20px;
+  left: 35px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.unusual-traffic-in5 {
+  position: absolute;
+  top: 0;
+  left: 26px;
+  font-weight: 500;
+}
+.traffic-jam-icon5 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.traffic-news5 {
+  position: absolute;
+  top: 21px;
+  left: 293px;
+  width: 291px;
+  height: 25px;
+}
+.potential-rain-at5 {
+  position: absolute;
+  top: 0;
+  left: 23px;
+  font-weight: 500;
+}
+.rainy-weather-icon5 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.footer-news5,
+.rain-news5 {
+  position: absolute;
+  top: 20px;
+  left: 673px;
+  width: 378px;
+  height: 25px;
+}
+.footer-news5 {
+  top: 949px;
+  left: 286px;
+  width: 1144px;
+  height: 67px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+}
+.navbar-child3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 277px;
+  height: 1024px;
+}
+.mask-group-icon34 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 17px;
+  height: 17px;
+  object-fit: cover;
+}
+.dashboard14,
+.dashboard15 {
+  position: absolute;
+  top: 0;
+  height: 19px;
+}
+.dashboard15 {
+  left: 26px;
+  line-height: 95.9%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  width: 96px;
+}
+.dashboard14 {
+  left: 28.5px;
+  width: 122px;
+  cursor: pointer;
+}
+.dashboard-child3 {
+  position: absolute;
+  top: 50px;
+  left: -1px;
+  width: 2px;
+  height: 21px;
+}
+.dashboard13,
+.order11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 150.5px;
+  height: 70px;
+}
+.order11 {
+  top: 1px;
+  left: 28px;
+  line-height: 95.9%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  width: 119px;
+  height: 19px;
+}
+.mask-group-icon35,
+.order10 {
+  position: absolute;
+  height: 21px;
+}
+.mask-group-icon35 {
+  top: 0;
+  left: 0;
+  width: 21px;
+  object-fit: cover;
+}
+.order10 {
+  top: 50px;
+  left: 26.5px;
+  width: 147px;
+  cursor: pointer;
+  color: var(--color-purple);
+}
+.orders-history12 {
+  position: absolute;
+  top: 0;
+  left: 26px;
+  line-height: 95.9%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  width: 122px;
+  height: 19px;
+}
+.history-1-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 17px;
+  height: 17px;
+  object-fit: cover;
+}
+.orders-history11,
+.schedule12 {
+  position: absolute;
+  top: 102px;
+  left: 28.5px;
+  width: 148px;
+  height: 19px;
+  cursor: pointer;
+}
+.schedule12 {
+  top: 153px;
+}
+.logo-child4,
+.navigation5 {
+  position: absolute;
+  top: 185px;
+  left: 18.5px;
+  width: 176.5px;
+  height: 172px;
+}
+.logo-child4 {
+  top: 0;
+  left: 0;
+  width: 45px;
+  height: 45px;
+  object-fit: cover;
+}
+.time7 {
+  top: 1px;
+  left: 49px;
+  line-height: 95.9%;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 99px;
+  height: 33px;
+}
+.logo7,
+.time7,
+.wheels7 {
+  position: absolute;
+}
+.wheels7 {
+  top: 22px;
+  left: 51px;
+  font-size: var(--font-size-3xs);
+  letter-spacing: 0.9em;
+  line-height: 95.9%;
+  font-weight: 800;
+  color: var(--color-goldenrod-100);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 94px;
+  height: 33px;
+}
+.logo7 {
+  top: 48px;
+  left: 47px;
+  width: 148px;
+  height: 55px;
+  text-align: center;
+  font-size: var(--font-size-18xl);
+}
+.download-1-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-28xl);
+  width: 62px;
+  height: 62px;
+  object-fit: cover;
+}
+.ivanka-trump5,
+.time-lord5 {
+  position: absolute;
+  line-height: 95.9%;
+  display: flex;
+  align-items: center;
+}
+.ivanka-trump5 {
+  top: 13px;
+  left: 72px;
+  font-weight: 600;
+  width: 116px;
+  height: 23px;
+}
+.time-lord5 {
+  top: 32px;
+  left: 71px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-100);
+  width: 105px;
+  height: 17px;
+}
+.profile5 {
+  position: absolute;
+  top: 922px;
+  left: 47px;
+  width: 188px;
+  height: 62px;
+}
+.communicate-icon5,
+.navbar5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.navbar5 {
+  width: 277px;
+  height: 1024px;
+  font-size: var(--font-size-mid);
+}
+.communicate-icon5 {
+  width: 18px;
+  height: 18px;
+  object-fit: cover;
+}
+.new-chat5 {
+  position: absolute;
+  top: 1px;
+  left: 31px;
+  line-height: 95.9%;
+  font-weight: 600;
+}
+.notif5 {
+  position: absolute;
+  top: 857px;
+  left: 77px;
+  width: 123px;
+  height: 18px;
+  font-size: var(--font-size-mid);
+}
+.driver-search-bar-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 1144px;
+  height: 58px;
+}
+.available-vehicles {
+  position: absolute;
+  top: 19px;
+  left: 19.02px;
+  line-height: 95.9%;
+  display: flex;
+  align-items: center;
+  width: 164.14px;
+}
+.search-bar5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-dimgray-200);
+  width: 396.35px;
+  height: 38px;
+}
+.vector-icon5 {
+  position: absolute;
+  height: 52.63%;
+  width: 5.05%;
+  top: 23.68%;
+  right: 91.67%;
+  bottom: 23.68%;
+  left: 3.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search-available-vehicles {
+  position: absolute;
+  top: 9px;
+  left: 53.05px;
+  font-weight: 500;
+  display: inline-block;
+  width: 189.17px;
+  height: 20px;
+}
+.search-bar4 {
+  position: absolute;
+  top: 10px;
+  left: 201.18px;
+  width: 396.35px;
+  height: 38px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-500);
+}
+.driver-search-bar1 {
+  position: absolute;
+  top: 105px;
+  left: 286px;
+  width: 1144px;
+  height: 58px;
+  font-size: var(--font-size-xl);
+}
+.recommended-vehicles,
+.show-more-options {
+  position: absolute;
+  top: 589px;
+  left: 781px;
+  font-weight: 500;
+  color: var(--color-gray-500);
+  display: inline-block;
+  width: 154px;
+  height: 20px;
+}
+.recommended-vehicles {
+  top: 202px;
+  left: 305px;
+  width: 189.17px;
+}
+.hrv-child,
+.or {
+  position: absolute;
+}
+.or {
+  top: 666px;
+  left: 845px;
+  font-size: var(--font-size-xl);
+  line-height: 95.9%;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 33px;
+}
+.hrv-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 271.31px;
+  height: 345px;
+}
+.honda-hrv,
+.simple-and-comfortable {
+  position: absolute;
+  display: inline-block;
+}
+.honda-hrv {
+  top: 173px;
+  left: 85px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  text-align: left;
+  width: 110px;
+  height: 25px;
+}
+.simple-and-comfortable {
+  top: 212px;
+  left: 35px;
+  font-weight: 500;
+  width: 202px;
+  height: 44px;
+}
+.image-16-icon {
+  top: 45px;
+  left: 3px;
+  width: 265px;
+  height: 115px;
+  object-fit: cover;
+}
+.hrv,
+.image-16-icon,
+.seater {
+  position: absolute;
+}
+.seater {
+  top: 308px;
+  left: 35px;
+  font-weight: 500;
+  display: inline-block;
+  width: 202px;
+  height: 20px;
+}
+.hrv {
+  top: 231px;
+  left: 302px;
+  box-shadow: 0 1px 100px rgba(0, 0, 0, 0.1);
+  width: 271.31px;
+  height: 345px;
+  text-align: center;
+  color: var(--color-gray-500);
+}
+.mitsubishi-xpander {
+  position: absolute;
+  top: 172px;
+  left: 43px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 186px;
+  height: 25px;
+}
+.standardized-suv-and {
+  position: absolute;
+  top: 212px;
+  left: 35px;
+  font-weight: 500;
+  display: inline-block;
+  width: 202px;
+  height: 20px;
+}
+.image-13-icon {
+  position: absolute;
+  top: 21px;
+  left: 17px;
+  width: 246px;
+  height: 164px;
+  object-fit: cover;
+}
+.xpander {
+  position: absolute;
+  top: 232px;
+  left: 582px;
+  box-shadow: 0 1px 100px rgba(0, 0, 0, 0.1);
+  width: 271.31px;
+  height: 345px;
+  text-align: center;
+  color: var(--color-gray-500);
+}
+.hyundai-ioniq-51 {
+  position: absolute;
+  top: 173px;
+  left: 63px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 146px;
+  height: 25px;
+}
+.electric-vehicle-so {
+  position: absolute;
+  top: 212px;
+  left: 35px;
+  font-weight: 500;
+  display: inline-block;
+  width: 202px;
+  height: 64px;
+}
+.image-14-icon {
+  position: absolute;
+  top: 14px;
+  left: 30px;
+  width: 220px;
+  height: 165px;
+  object-fit: cover;
+}
+.ioniq {
+  position: absolute;
+  top: 231px;
+  left: 862px;
+  box-shadow: 0 1px 100px rgba(0, 0, 0, 0.1);
+  width: 271.31px;
+  height: 345px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-gray-500);
+}
+.honda-accord {
+  position: absolute;
+  top: 173px;
+  left: 71px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 130px;
+  height: 25px;
+}
+.accord,
+.image-12-icon {
+  position: absolute;
+  width: 299px;
+}
+.image-12-icon {
+  top: 25px;
+  left: 0;
+  height: 168px;
+  object-fit: cover;
+}
+.accord {
+  top: 232px;
+  left: 1142px;
+  box-shadow: 0 1px 100px rgba(0, 0, 0, 0.1);
+  height: 345px;
+  text-align: center;
+  color: var(--color-gray-500);
+}
+.private-car-option-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  width: 484px;
+  height: 95px;
+}
+.use-your-own {
+  position: absolute;
+  top: 28px;
+  left: 138px;
+  font-weight: 600;
+  display: inline-block;
+  width: 207px;
+  height: 28px;
+}
+.private-car-option {
+  position: absolute;
+  top: 733px;
+  left: 620px;
+  box-shadow: 0 1px 100px rgba(0, 0, 0, 0.1);
+  width: 484px;
+  height: 95px;
+  font-size: var(--font-size-6xl);
+}
+.order-car-after-driver {
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-nunito);
+}
