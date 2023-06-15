@@ -5,6 +5,21 @@
       Sign Up - Time Wheels
     </title>
 
+    <style>
+      /* Chrome, Edge, and Safari */
+      *::-webkit-scrollbar {
+        display: none;
+      }
+
+      *::-webkit-scrollbar-track {
+        display: none;
+      }
+
+      *::-webkit-scrollbar-thumb {
+        display: none;
+      }
+    </style>
+
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
       tailwind.config = {

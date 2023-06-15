@@ -15,7 +15,11 @@ use App\Http\Controllers\UserController;
 */
 
 Route::get('/', function () {
-    return redirect('signin');
+    return redirect('landing');
+});
+
+Route::get('/landing', function () {
+    return view('landing');
 });
 
 Route::get('/signin', function () {
