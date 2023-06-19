@@ -30,5 +30,11 @@ Route::get('/signup', function () {
     return view('signup');
 });
 
+Route::get('/chatlist', function () {
+    return view('chat_list');
+});
+
 Route::post('/signinaction', [UserController::class, 'login']);
 Route::post('/signupaction', [UserController::class, 'register']);
+Route::post('/logoutaction', [UserController::class, 'logout']);
+Route::get('/gotodashboard', [UserController::class, 'goToDashboard']);

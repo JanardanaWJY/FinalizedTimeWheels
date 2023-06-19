@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="<?php echo e(asset('css/index_css.css')); ?>">
+    <link rel="stylesheet" href="<?php echo e(asset('css/global.css')); ?>">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&display=swap"
+        rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&display=swap"
+        rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        Nunito: ["Nunito"],
+                        Inter: ["Inter"]
+                    }
+                }
+            }
+        };
+    </script>
+    <link rel="icon" type="image/x-icon" href="<?php echo e(asset('Assets/tab_icon.png')); ?>">
+    <title>Time Wheels</title>
+</head>
+
+<body class="font-[Nunito]">
+    <div class="absolute z-[-999] right-0 top-0">
+        <img src="<?php echo e(asset('Assets/Ellipse 56.png')); ?>" alt="ellipse">
+    </div>
+    <div class="absolute z-[-999] left-[2vw] top-[132vw]">
+        <img src="<?php echo e(asset('Assets/Ellipse 62.png')); ?>" alt="ellipse">
+    </div>
+    <div class="absolute z-[-999] right-0 top-[140vw]">
+        <img src="<?php echo e(asset('Assets/Ellipse 61.png')); ?>" alt="ellipse">
+    </div>
+    <div class="absolute z-[-999] left-0 top-[30vw]">
+        <img src="<?php echo e(asset('Assets/Ellipse 57.png')); ?>" alt="ellipse">
+    </div>
+    <div class="absolute z-[-999] left-[4vw] top-[124vw] w-[15vw]">
+        <img src="<?php echo e(asset('Assets/Ellipse 8.png')); ?>" alt="ellipse">
+    </div>
+    <section class="flex flex-col gap-y-[3vw] w-[100%] mx-auto">
+        <!-- navbar -->
+        <div class="absolute z-[-999] left-0 top-0">
+            <img src="<?php echo e(asset('Assets/ball_element_left.png')); ?>" alt="ball_element">
+        </div>
+        <div class="fixed z-10 top-0 w-[100%] bg-[rgba(255,255,255,0.1)]">
+            <div class="flex justify-between py-[1vw] items-center px-[5vw]">
+                <div class="w-[10vw]">
+                    <img src="<?php echo e(asset('Assets/TimeWheelsLogo.png')); ?>" alt="TimeWheelsLogo">
+                </div>
+                <div class="flex items-center gap-x-[4vw]">
+                    <div class="flex font-extrabold text-[1vw] gap-x-[4vw] text-black">
+                        <a href="#home" class="hover:text-[#6F177D] duration-[0.3s]">Home</a>
+                        <a href="#aboutUs" class="hover:text-[#6F177D] duration-[0.3s]">About Us</a>
+                        <a href="#testimonials" class="hover:text-[#6F177D] duration-[0.3s]">Testimonials</a>
+                        <a href="#contacts" class="hover:text-[#6F177D] duration-[0.3s]">Contacts</a>
+                    </div>
+                    <a href="<?php echo e(url('dashboard')); ?>" class="flex items-center gap-x-[0.5vw]">
+                        <div>
+                            <img src="<?php echo e(asset('Assets/landing_page_profile.png')); ?>" alt="landing_page_profile">
+                        </div>
+                        <p class="font-medium text-[1vw]">Sign in</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <!-- body -->
+        <!-- home -->
+        <div class="absolute z-[-999] left-[12vw] top-[10vw] w-[25vw]">
+            <img src="<?php echo e(asset('Assets/Ellipse 8.png')); ?>" alt="ellipse">
+        </div>
+        <div id="home" class="mt-[10vw] w-[90%] mx-auto">
+            <div class="ml-[11vw] mt-[3vw]">
+                <p class="font-[Inter] text-[7vw] font-medium text-black w-[20vw] leading-[7.5vw] mb-[1.5vw]">Exclusive
+                    Rental Service</p>
+                <p class="text-[1.7vw] font-light text-black w-[39vw] ml-[0.3vw]">Need a driver or car rental service
+                    for a set duration? We got you covered</p>
+            </div>
+            <div class="absolute top-[7vw] left-[9vw]">
+                <img src="<?php echo e(asset('Assets/home_landing_page.png')); ?>" alt="home_landing_page">
+            </div>
+            <a href="<?php echo e(url('dashboard')); ?>"
+                class="block bg-[rgba(212,167,50,0.15)] w-[24vw] text-center font-semibold py-[0.5vw] rounded-[100px] drop-shadow-xl text-[2vw] mx-auto mt-[32vw] hover:bg-[#d4a732] duration-[0.3s]">Get
+                Started</a>
+        </div>
+        <!-- vehicles -->
+        <div class="absolute z-[-999] right-0 top-[80vw]">
+            <img src="<?php echo e(asset('Assets/ball_element_right.png')); ?>" alt="ball_element">
+        </div>
+        <div class="mt-[12vw] w-[90%] mx-auto">
+            <p class="font-[Inter] text-[#696687] text-[1.5vw] text-center mb-[5vw]">Provided Vehicles</p>
+            <div class="flex items-center justify-center">
+                <img src="<?php echo e(asset('Assets/toyota.png')); ?>" alt="toyota" class="w-[10vw] h-[7vw]">
+                <img src="<?php echo e(asset('Assets/honda.png')); ?>" alt="honda" class="w-[10vw] h-[8vw] ml-[-2vw]">
+                <img src="<?php echo e(asset('Assets/mitsubishi.png')); ?>" alt="mitsubishi" class="w-[6vw] h-[4vw]">
+                <img src="<?php echo e(asset('Assets/hyundai.png')); ?>" alt="hyundai" class="ml-[2.5vw]">
+                <img src="<?php echo e(asset('Assets/mercedes benz.png')); ?>" alt="mercedes benz" class="ml-[2.5vw]">
+            </div>
+        </div>
+        <!-- about us -->
+        <div class="absolute z-[2] right-[7vw] top-[135vw] w-[40vw]">
+            <img src="<?php echo e(asset('Assets/image 20.png')); ?>" alt="image20" class="w-full">
+        </div>
+        <div class="absolute z-[3] right-[18vw] top-[120vw] w-[40vw]">
+            <img src="<?php echo e(asset('Assets/image 30.png')); ?>" alt="image30" class="w-full">
+        </div>
+        <div id="aboutUs" class="mt-[15vw] text-black w-[90%] mx-auto">
+            <p class="font-medium text-[4vw] mb-[3vw] font-[Inter]">About us</p>
+            <div class="text-[1.2vw]">
+                <p class="mb-[0.5vw] font-semibold">New Approach (Duration-Based Rental Services)</p>
+                <p class="text-[#696687] w-[32vw]">While other rental services focus on point-to-point delivery
+                    (Destination), we focus primarily on duration. No more waiting for a driver to pick up your booking
+                    only to be canceled again, have a driver standing by for you to save your valuable time.</p>
+            </div>
+            <div class="text-[1.2vw] mt-[4vw]">
+                <p class="mb-[0.5vw] font-semibold">Standardised Vehicles</p>
+                <p class="text-[#696687] w-[43vw]">We can ensure consistency in our service, providing our users with
+                    an enjoyable experience from start to finish. Nothing feels worse than hopping into a taxi and
+                    finding stains on the seat and cigarette fog. Our vehicles and drivers are maintained and supervised
+                    to keep up with our high standards.</p>
+            </div>
+            <div class="flex justify-between mt-[4vw]">
+                <div class="text-[1.2vw]">
+                    <p class="mb-[0.5vw] font-semibold">Luxury Facilities</p>
+                    <p class="text-[#696687] w-[42vw]">Your experience is our primary focus. Our standards get you
+                        there in time with elegance and poise. Business and negotiation is an image game. Wow your
+                        connections and business partners with our package's top of the line service. Show your worth to
+                        prospective acquaintances.</p>
+                </div>
+                <div class="text-[1.2vw]">
+                    <p class="mb-[0.5vw] font-semibold">Connection</p>
+                    <p class="text-[#696687] w-[42vw]">Relationships are the flavour of life. Find a driver that clicks
+                        with you and build a foundation of professional understanding. Our duration-based system
+                        provides more opportunities for loyal users to communicate their needs and capitalise on
+                        downtime with our drivers.</p>
+                </div>
+            </div>
+        </div>
+        <img src="<?php echo e(asset('Assets/Vector 3.png')); ?>" alt="line below vehicles" class="w-[90%] mx-auto">
+        <!-- testimonials -->
+        <div id="testimonials" class="w-full bg-cover h-[90vw] flex items-center mt-[-5vw]"
+            style="background-image: url(Assets/testimonials_bg.png)">
+            <div class="flex flex-row w-[80%] mx-auto bg-[#F0F0F0] mt-[-15vw]">
+                <div class="basis-1/3 bg-[rgba(212,163,50,0.15)] p-[5vw]">
+                    <img src="<?php echo e(asset('Assets/testimonials.png')); ?>" alt="" class="mx-auto">
+                </div>
+                <div class="basis-1/3 px-[3vw] pt-[7vw]">
+                    <p class="mb-[6vw] text-black font-semibold text-[1.4vw]">"Thank you"</p>
+                    <p class="text-[#696687] text-[1vw]">Ignatius Deo Chuanito</p>
+                </div>
+                <div class="basis-1/3 px-[3vw] pt-[7vw] border-l-[1px] border-black">
+                    <p class="mb-[4vw] text-black font-semibold text-[1.4vw]">“My boss uses this service and he loves
+                        it”</p>
+                    <p class="text-[#696687] text-[1vw]">Faqih Ash Shiddiq</p>
+                </div>
+            </div>
+        </div>
+        <!-- qoute -->
+        <div class="w-[90%] mx-auto mt-[-10vw]">
+            <p class="font-serif text-[rgba(0,0,0,0.5)] text-center text-[1.5vw]">“Doesn’t matter if you are rich or
+                poor, handsome <br> or ugly, at the end of the day it’s night”</p>
+        </div>
+        <!-- footer -->
+        <div id="contacts" class="bg-[#2C2C2C] py-[4vw] mt-[15vw]">
+            <div class="w-[90%] flex justify-between text-white mx-auto">
+                <div class="">
+                    <div class="w-[12vw] mb-[3vw]">
+                        <img src="<?php echo e(asset('Assets/footer logo.png')); ?>" alt="footer logo">
+                    </div>
+                    <p class="text-[rgba(255,255,255,0.6)] text-[1vw]">© 2023 by Fantastic Four.</p>
+                </div>
+                <div class="text-[1.3vw] font-normal">
+                    <p class="mb-[1vw]">500 Terry Francine Street</p>
+                    <p>San Francisco, CA 94158</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="<?php echo e(asset('js/index_js.js')); ?>"></script>
+</body>
+
+</html>
+<?php /**PATH C:\laravel\TimeWheels\resources\views/landing.blade.php ENDPATH**/ ?>

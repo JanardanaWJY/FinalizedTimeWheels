@@ -83,11 +83,12 @@ class UserController extends Controller
 
         if(!$errors) {
             if(Auth::attempt(['name' => $username, 'password' => $password])) {
+                $request->session()->put('logged', true);
                 if($remember) {
                     $request->session()->put('username', $username);
                     $request->session()->put('password', $password);
                 }
-                return redirect("signin")->with(['errors' => ["SIGNED IN"]]);
+                return redirect("gotodashboard");
             }
             else {
                 array_push($errors, "Wrong username or password");
@@ -98,7 +99,19 @@ class UserController extends Controller
         else {
             $request->session()->forget('username');
             $request->session()->forget('password');
+            $request->session()->forget('logged');
             return redirect("signin")->with(['errors' => $errors]);
         }
+    }
+
+    public function goToDashboard(Request $request) {
+        if($request->session()->exists('logged')) {
+            return view('dashboard');
+        }
+        return redirect('signin');
+    }
+
+    public function logout(Request $request) {
+        $request->session()->forget('logged');
     }
 }
